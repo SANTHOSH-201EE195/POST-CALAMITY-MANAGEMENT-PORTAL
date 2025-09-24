@@ -1,0 +1,5 @@
+{
+  "name": "Post Calamity Management Portal",
+  "description": "A comprehensive portal for users to report calamity-related losses and for admins to manage and track these applications. Features separate dashboards for users and admins, application submission, status tracking, and reporting capabilities.",
+  "requestFramePermissions": []
+}
